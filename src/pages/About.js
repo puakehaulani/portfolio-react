@@ -3,14 +3,20 @@ import React from "react";
 function About() {
     return (
         <div>
-            <h1>About Page</h1>
             <p>
-                Nunc pharetra finibus est at efficitur. Praesent sed congue diam. Integer gravida dui
-                mauris, ut interdum nunc egestas sed. Aenean sed mollis diam. Nunc aliquet risus ac finibus
-                porta. Nam quis arcu non lectus tincidunt fermentum. Suspendisse aliquet orci porta quam
-                semper imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus in. Sed
-                rhoncus mollis diam, sit amet facilisis lectus blandit at.
-      </p>
+                I'm a full-stack web developer from O‘ahu, Hawai‘i, with a background in client relations.
+                Currently I am earning a Certificate in Web Development from the University of Washington.
+                I have strength in teamwork, listening, anticipating the needs of clients, and working in
+                fast paced
+                environments. I have skills in HTML, CSS, JavaScript, JQuery, and Node.js.
+             </p><p>
+                My motivation comes from my insatiable curiosity and the endorphin rush from solving a
+                problem. I love to learn.
+            </p><p>
+                I'm excited to find my technical niche. In the meantime, I plan to continue to
+                develop meaningful and intuitive websites that people will actually want to
+                use.
+            </p>
         </div>
     );
 }
