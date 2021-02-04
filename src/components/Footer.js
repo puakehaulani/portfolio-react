@@ -6,10 +6,12 @@ import { faInstagram } from '@fortawesome/free-brands-svg-icons';
 
 function Footer() {
     return (
-        <footer className="footer mt-auto py-3">
-            <a href="https://github.com/puakehaulani"><FontAwesomeIcon icon={faGithubAlt} size="2x" /></a>
-            <a href="https://www.linkedin.com/in/lexijack"><FontAwesomeIcon icon={faLinkedinIn} size="2x" /></a>
-            <a href="https://www.instagram.com/puakehaulani/"><FontAwesomeIcon icon={faInstagram} size="2x" /></a>
+        <footer className="footer mt-auto py-3 text-center">
+
+            <a className="px-4" href="https://github.com/puakehaulani"><FontAwesomeIcon icon={faGithubAlt} size="2x" /></a>
+            <a className="px-4" href="https://www.linkedin.com/in/lexijack"><FontAwesomeIcon icon={faLinkedinIn} size="2x" /></a>
+            <a className="px-4" href="https://www.instagram.com/puakehaulani/"><FontAwesomeIcon icon={faInstagram} size="2x" /></a>
+
         </footer>
     );
 }
