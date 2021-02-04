@@ -20,13 +20,13 @@ body {
   min-height: 100%;
   padding-bottom: 30px;
   position: relative;
-  background-image: linear-gradient(to bottom, transparent, black);
-  /* url("../images/background.jpg"); */
-  /* Photo by Brennan Burling on Unsplash */
+  background-image: linear-gradient(to bottom, transparent, black),
+    url("../src/assets/images/bkg.jpg");
+  /* Photo by https://unsplash.com/@aditya1702 */
   background-repeat: no-repeat;
   background-attachment: fixed;
   font-family: "Forum", cursive;
-  color: white;
+  /* color: white; */
 }
 
 .container {
@@ -40,5 +40,5 @@ footer {
   bottom: 0;
   left: 0;
   width: 100%;
-  background-color: black;
+  /* background-color: black; */
 }
