@@ -26,6 +26,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   font-family: "Forum", cursive;
+  background-color: black;
 }
 
 .container {
@@ -33,9 +34,41 @@ body {
   margin-bottom: 50px;
 }
 
+.jumbotron {
+  opacity: 0.7;
+  color: white;
+}
+
 .card {
   border: 0;
   background-color: rgba(0, 0, 0, 0.5);
+  filter: grayscale(100%);
+}
+
+.card:hover {
+  filter: grayscale(0%);
+}
+.card:hover > img {
+  filter: opacity(50%) blur(3px);
+}
+
+.card-img {
+  filter: opacity(80%);
+}
+
+.card-img-overlay > h5,
+.card-img-overlay > p {
+  visibility: hidden;
+}
+.card-img-overlay:hover h5,
+.card-img-overlay:hover p {
+  visibility: visible;
+}
+
+.card-text,
+.card-title,
+.card-footer {
+  text-shadow: 1px 1px black;
 }
 
 footer {
