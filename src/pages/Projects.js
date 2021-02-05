@@ -1,10 +1,15 @@
-import React from 'react'
+import React from 'react';
+import Container from "../components/Container";
+import ProjectCard from '../components/ProjectCard';
 
 function Projects() {
 
     return (
         <div>
-            Projects
+            <Container>
+                <ProjectCard
+                />
+            </Container>
         </div>
     )
 }
