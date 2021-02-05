@@ -9,11 +9,7 @@ function NavTabs() {
 
     return (
         <ul className="nav justify-content-end">
-            <li className="nav-item">
-                <Link to="/" className={location.pathname === "/" ? "nav-link active" : "nav-link"}>
-                    home
-        </Link>
-            </li>
+
             <li className="nav-item">
                 <Link
                     to="/about"
