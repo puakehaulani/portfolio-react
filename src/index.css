@@ -22,7 +22,7 @@ body {
   position: relative;
   background-image: linear-gradient(to bottom, transparent, black),
     url("../src/assets/images/bkg.jpg");
-  /* Photo by https://unsplash.com/@aditya1702 */
+  /* Photo by Toa Heftiba on Unsplash*/
   background-repeat: no-repeat;
   background-attachment: fixed;
   font-family: "Forum", cursive;
@@ -77,4 +77,24 @@ footer {
   bottom: 0;
   left: 0;
   width: 100%;
+}
+
+table {
+  margin-top: 60px;
+  margin-left: 20px;
+  float: right;
+  color: rgba(255, 255, 255, 0.575) !important;
+}
+
+a {
+  color: white !important;
+}
+
+.entrance {
+  margin-top: 100px;
+  font-family: "Bitter", serif;
+  font-size: 100px;
+  padding: 10px;
+  display: inline-block;
+  overflow: hidden;
 }

@@ -5,7 +5,7 @@ function ProjectCard() {
     const projectDisplay = project.project.map((item) =>
         <div className="card col-md-3 mb-4 mx-2 bg-dark text-white" key={item.title}>
             <img src={window.location.origin + item.thumbnail} className="card-img mt-3" alt={item.title} />
-            <div className="card-img-overlay">
+            <div className="card-img-overlay h-75">
                 <h5 className="card-title d-flex justify-content-center mt-5">{item.title}</h5>
                 <p className="card-text text-center">{item.about}</p>
             </div>
