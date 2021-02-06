@@ -4,7 +4,7 @@
       "_id ": 1,
       "title": "Employee Directory",
       "about": "An employee directory app that is filterable, made with React",
-      "thumbnail": "./images/projects/employeedir.png",
+      "thumbnail": "/images/projects/employeedir.png",
       "deployment": "https://puakehaulani.github.io/employee-directory/",
       "repo": "https://github.com/puakehaulani/employee-directory"
     },
@@ -20,7 +20,7 @@
       "_id ": 3,
       "title": "Workout Tracker",
       "about": "A workout tracking app made with Node, Express, MongoDB and mongoose",
-      "thumbnail": "./images/projects/workouttracker.png",
+      "thumbnail": "./portfolio-react/images/projects/workouttracker.png",
       "deployment": "https://polar-coast-38465.herokuapp.com/",
       "repo": "https://github.com/puakehaulani/workout-tracker"
     },
