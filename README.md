@@ -2,13 +2,13 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![home screenshot](/assets/images/tux.png)
-![about screenshot](/assets/images/tux.png)
-![portfolio screenshot](/assets/images/tux.png)
-![resume screenshot](/assets/images/tux.png)
+![home screenshot](public/images/readme/home.png)
+![about screenshot](public/images/readme/about.png)
+![portfolio screenshot](public/images/readme/portfolio.png)
+![resume screenshot](public/images/readme/resume.png)
 
 [Explore the docs](https://github.com/puakehaulani/portfolio-react)  
-[See the deployment]()
+[See the deployment](https://puakehaulani.github.io/portfolio-react/)
 
 ---
 
