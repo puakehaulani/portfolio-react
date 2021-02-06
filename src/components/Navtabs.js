@@ -12,24 +12,24 @@ function NavTabs() {
 
             <li className="nav-item">
                 <Link
-                    to="/about"
-                    className={location.pathname === "/about" ? "nav-link active" : "nav-link"}
+                    to="/portfolio-react/about"
+                    className={location.pathname === "/portfolio-react/about" ? "nav-link active" : "nav-link"}
                 >
                     about
         </Link>
             </li>
             <li className="nav-item">
                 <Link
-                    to="/projects"
-                    className={location.pathname === "/projects" ? "nav-link active" : "nav-link"}
+                    to="/portfolio-react/projects"
+                    className={location.pathname === "/portfolio-react/projects" ? "nav-link active" : "nav-link"}
                 >
                     projects
         </Link>
             </li>
             <li className="nav-item">
                 <Link
-                    to="/resume"
-                    className={location.pathname === "/resume" ? "nav-link active" : "nav-link"}
+                    to="/portfolio-react/resume"
+                    className={location.pathname === "/portfolio-react/resume" ? "nav-link active" : "nav-link"}
                 >
                     resume
         </Link>

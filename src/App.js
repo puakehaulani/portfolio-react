@@ -15,10 +15,10 @@ function App() {
       <>
         <Container>
           <Navtabs />
-          <Route exact path="/" component={Home} />
-          <Route exact path="/about" component={About} />
-          <Route exact path="/projects" component={Projects} />
-          <Route path="/resume" component={Resume} />
+          <Route exact path="/portfolio-react/" component={Home} />
+          <Route exact path="/portfolio-react/about" component={About} />
+          <Route exact path="/portfolio-react/projects" component={Projects} />
+          <Route path="/portfolio-react/resume" component={Resume} />
           <Footer />
         </Container>
       </>
