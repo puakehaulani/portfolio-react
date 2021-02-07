@@ -1,11 +1,18 @@
-import React from 'react'
+import React from 'react';
+import { Link } from "react-router-dom";
+
 
 export default function Home() {
     return (
         <div className="row d-flex justify-content-center entrance">
-            <a href="./portfolio-react/about" className="text-center">aloha e honua
+            <Link
+                to="/portfolio-react/about"
+                className="text-center"
+            >
+                aloha e honua
             <br />
-            hello world</a>
+            hello world
+        </Link>
         </div>
     )
 }
