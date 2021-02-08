@@ -4,7 +4,6 @@ import List from "../components/List";
 function About() {
     return (
         <>
-            <List />
             <div className="row d-flex justify-content-center mt-5">
                 <div className="jumbotron col-md-8 bg-dark">
                     <p>
@@ -21,8 +20,8 @@ function About() {
                         I'm excited to find my technical niche. In the meantime, I plan to continue trying new things and taking on diverse projects.
             </p>
                 </div>
-
             </div>
+            <List />
 
         </>
     );
