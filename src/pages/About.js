@@ -20,8 +20,9 @@ function About() {
                         I'm excited to find my technical niche. In the meantime, I plan to continue trying new things and taking on diverse projects.
             </p>
                 </div>
+                <List />
             </div>
-            <List />
+
 
         </>
     );
