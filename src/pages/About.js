@@ -5,6 +5,7 @@ function About() {
     return (
         <>
             <div className="row d-flex justify-content-center mt-5">
+                <List />
                 <div className="jumbotron col-md-8 bg-dark">
                     <p>
                         I'm a full-stack web developer from O‘ahu, Hawai‘i, with a background in service and client relations.
@@ -20,7 +21,7 @@ function About() {
                         I'm excited to find my technical niche. In the meantime, I plan to continue trying new things and taking on diverse projects.
             </p>
                 </div>
-                <List />
+
             </div>
 
 
