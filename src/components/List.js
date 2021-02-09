@@ -2,7 +2,7 @@ import React from 'react'
 
 function List() {
     const skill = [
-        "JavaScript", "HTML", "CSS/SCSS", "jQuery", "Bootstrap", "Handlebars", "Heroku", "Git", "MySql", "MongoDB", "Express", "Node"
+        "React", "JavaScript", "HTML", "CSS/SCSS", "jQuery", "Bootstrap", "Handlebars", "Heroku", "Git", "MySql", "MongoDB", "Express", "Node"
     ]
     const skillList = skill.map((item) =>
         <tr>
