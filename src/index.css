@@ -15,7 +15,7 @@ body {
   background-image: linear-gradient(to bottom, transparent, black),
     url("../src/assets/images/bkg.jpg");
   /* Photo by Toa Heftiba on Unsplash*/
-  background-repeat: no-repeat;
+  background-repeat: repeat-x;
   background-attachment: fixed;
   background-color: black;
   -webkit-font-smoothing: antialiased;
@@ -75,10 +75,22 @@ footer {
   width: 100%;
 }
 
+#about {
+  /* width: calc(100% -10rem); */
+  margin-left: 10rem;
+  margin-right: 10px;
+}
+
+.vertical-nav {
+  position: fixed;
+  top: 20%;
+  width: 9rem;
+  /* border-radius: 10px;
+  border-style: dashed;
+  border-color: aliceblue; */
+}
+
 table {
-  margin-top: 60px;
-  margin-right: 15px;
-  float: right;
   color: rgba(255, 255, 255, 0.575) !important;
 }
 

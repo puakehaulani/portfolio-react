@@ -2,6 +2,14 @@
   "project": [
     {
       "_id ": 1,
+      "title": "GameStock",
+      "about": "A stock trading simulation app, made with React.",
+      "thumbnail": "./images/projects/gamestock.png",
+      "deployment": "https://gamestock-app.herokuapp.com/",
+      "repo": "https://github.com/seattletrade/gamestock"
+    },
+    {
+      "_id ": 2,
       "title": "Employee Directory",
       "about": "An employee directory app that is filterable, made with React",
       "thumbnail": "./images/projects/employeedir.png",
@@ -9,7 +17,7 @@
       "repo": "https://github.com/puakehaulani/employee-directory"
     },
     {
-      "_id ": 2,
+      "_id ": 3,
       "title": "Budget Tracker",
       "about": "A budget tracking app that allows the user to store offline transactions, made with Node, Express, and NoSQL.",
       "thumbnail": "./images/projects/budgettracker.png",
@@ -17,7 +25,7 @@
       "repo": "https://github.com/puakehaulani/budget-tracker"
     },
     {
-      "_id ": 3,
+      "_id ": 4,
       "title": "Workout Tracker",
       "about": "A workout tracking app made with Node, Express, MongoDB and mongoose",
       "thumbnail": "./images/projects/workouttracker.png",
@@ -25,7 +33,7 @@
       "repo": "https://github.com/puakehaulani/workout-tracker"
     },
     {
-      "_id ": 4,
+      "_id ": 5,
       "title": "Employee Tracker",
       "about": "A Content Management Systems app to manage a companies employees using Node, inquirer and MySQL.",
       "thumbnail": "./images/projects/employeetracker.png",
@@ -33,7 +41,7 @@
       "repo": "https://github.com/puakehaulani/Employee_Tracker"
     },
     {
-      "_id ": 5,
+      "_id ": 6,
       "title": "Eat da Burger",
       "about": "A burger logging app made with MySQL, Node, Express, Handlebars and a homemade ORM",
       "thumbnail": "./images/projects/eatdaburger.png",
@@ -41,7 +49,7 @@
       "repo": "https://github.com/puakehaulani/eat-da-burger"
     },
     {
-      "_id ": 6,
+      "_id ": 7,
       "title": "README Generator",
       "about": "Command line app to generate a README using answers from user prompts, made with Node",
       "thumbnail": "./images/projects/readmegenerator.png",
@@ -49,7 +57,7 @@
       "repo": "https://github.com/puakehaulani/README-generator"
     },
     {
-      "_id ": 7,
+      "_id ": 8,
       "title": "the Hungry App",
       "about": "Front end app that uses Spoonacular API calls to allow user to find recipes based on what they have in their pantry, and enjoy a joke.",
       "thumbnail": "./images/projects/hungryapp.png",
@@ -57,7 +65,7 @@
       "repo": "https://github.com/puakehaulani/the-hungry-app-proj1"
     },
     {
-      "_id ": 8,
+      "_id ": 9,
       "title": "Weather Dashboard",
       "about": "A dynamic weather dashboard web app using Open Weather Map's API",
       "thumbnail": "./images/projects/weatherdashboard.png",
@@ -65,7 +73,7 @@
       "repo": "https://github.com/puakehaulani/6-Weather-Dashboard"
     },
     {
-      "_id ": 9,
+      "_id ": 10,
       "title": "Workday Scheduler",
       "about": "Front end app that creates a dynamic day planner for a single work day using the Moment.js library.",
       "thumbnail": "./images/projects/workdayscheduler.png",
