@@ -3,7 +3,7 @@
     {
       "_id ": 1,
       "title": "GameStock",
-      "about": "A stock trading simulation app, made with React.",
+      "about": "A stock trading simulation app, made with React",
       "thumbnail": "./images/projects/gamestock.png",
       "deployment": "https://gamestock-app.herokuapp.com/",
       "repo": "https://github.com/seattletrade/gamestock"
@@ -19,7 +19,7 @@
     {
       "_id ": 3,
       "title": "Budget Tracker",
-      "about": "A budget tracking app that allows the user to store offline transactions, made with Node, Express, and NoSQL.",
+      "about": "A budget tracking app that allows the user to store offline transactions, made with Node, Express, and NoSQL",
       "thumbnail": "./images/projects/budgettracker.png",
       "deployment": "https://warm-atoll-10602.herokuapp.com/",
       "repo": "https://github.com/puakehaulani/budget-tracker"
@@ -35,7 +35,7 @@
     {
       "_id ": 5,
       "title": "Employee Tracker",
-      "about": "A Content Management Systems app to manage a companies employees using Node, inquirer and MySQL.",
+      "about": "A Content Management Systems app to manage a companies employees using Node, inquirer and MySQL",
       "thumbnail": "./images/projects/employeetracker.png",
       "deployment": "https://github.com/puakehaulani/Employee_Tracker#Usage",
       "repo": "https://github.com/puakehaulani/Employee_Tracker"
@@ -59,7 +59,7 @@
     {
       "_id ": 8,
       "title": "the Hungry App",
-      "about": "Front end app that uses Spoonacular API calls to allow user to find recipes based on what they have in their pantry, and enjoy a joke.",
+      "about": "Front end app that uses Spoonacular API calls to allow user to find recipes based on what they have in their pantry, and enjoy a joke",
       "thumbnail": "./images/projects/hungryapp.png",
       "deployment": "https://puakehaulani.github.io/the-hungry-app-proj1/",
       "repo": "https://github.com/puakehaulani/the-hungry-app-proj1"
@@ -75,7 +75,7 @@
     {
       "_id ": 10,
       "title": "Workday Scheduler",
-      "about": "Front end app that creates a dynamic day planner for a single work day using the Moment.js library.",
+      "about": "Front end app that creates a dynamic day planner for a single work day using the Moment.js library",
       "thumbnail": "./images/projects/workdayscheduler.png",
       "deployment": "https://puakehaulani.github.io/5-Work-Day-Scheduler/",
       "repo": "https://github.com/puakehaulani/5-Work-Day-Scheduler"
