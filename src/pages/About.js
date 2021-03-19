@@ -9,6 +9,7 @@ function About() {
             </div>
             <div className="row mt-5" id="about">
                 <div className="jumbotron col-md-10 bg-dark">
+                    <h2 >aloha, i'm lexi jack</h2>
                     <p>
                         I'm a full-stack web developer from O‘ahu, Hawai‘i, with a background in service and client relations.
                         I earned a Certificate in Web Development from the University of Washington in 2021.
