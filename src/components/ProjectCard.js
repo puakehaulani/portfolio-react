@@ -14,7 +14,7 @@ function ProjectCard() {
                 <a href={item.repo} className="mx-2">repository</a>
             </div>
         </div>
-    ).reverse()
+    )
     return (
         <div className="row d-flex justify-content-center">
             {projectDisplay}
