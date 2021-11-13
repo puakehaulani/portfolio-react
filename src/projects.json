@@ -1,6 +1,14 @@
 {
   "project": [
     {
+      "_id ": 12,
+      "title": "Darbe",
+      "about": "A client social app developed with a team of devs and designers, intended to secure investment by demonstrating concept",
+      "thumbnail": "./images/projects/darbe.png",
+      "deployment": "http://darbe.co",
+      "repo": ""
+    },
+    {
       "_id ": 11,
       "title": "Currency Converter",
       "about": "A currency converter concept, created with React Native",
